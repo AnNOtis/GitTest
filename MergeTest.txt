@@ -1,6 +1,4 @@
 來測試Merge吧~我是AnNOtis
-<<<<<<< HEAD
 AnNOtis2 OPOP
-=======
 AnNOtis CUTECUTE
->>>>>>> 18e0f1cfb7c44fb5bcd0321690038d33cd801333
+
